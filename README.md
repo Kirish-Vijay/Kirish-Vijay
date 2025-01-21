@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kirish
-- 👀 I’m interested in AI and NLP.
-- 🌱 I’m currently learning Applied ML, CV, and NLP.
-- 💞️ I’m looking to collaborate on any project utilising AI.
+- 👀 I’m interested in Tech, AI, CV and NLP.
+- 🌱 I’m currently learning about Sales.
+- 💞️ I’m looking to collaborate on any project involving AI.
 - 📫 How to reach me: ksanjeevvijay@gmail.com.
 
 <!---
